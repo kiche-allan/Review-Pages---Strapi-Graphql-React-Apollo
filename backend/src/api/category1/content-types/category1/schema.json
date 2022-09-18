@@ -1,0 +1,15 @@
+{
+  "kind": "collectionType",
+  "collectionName": "category1s",
+  "info": {
+    "singularName": "category1",
+    "pluralName": "category1s",
+    "displayName": "category1",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
